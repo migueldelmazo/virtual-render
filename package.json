@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "server": "statik --port 3000 .",
+    "start": "npm run server"
+  },
+  "devDependencies": {
+    "statik": "^1.4.6"
+  }
+}
